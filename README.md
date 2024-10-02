@@ -1,6 +1,6 @@
 # Jogo da Forca
 
-# Trabalho realizado para Raciocínio Algorítmico
+## Trabalho realizado para Raciocínio Algorítmico
 
 Este é um jogo simples de forca desenvolvido em Python. O jogador deve adivinhar uma palavra secreta, com um número limitado de tentativas.
 
